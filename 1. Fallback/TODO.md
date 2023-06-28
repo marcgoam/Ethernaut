@@ -2,10 +2,10 @@
 
 Look carefully at the contract's code below.
 
-You will beat this level if
+You will beat this level if: 
 
-you claim ownership of the contract
-you reduce its balance to 0
+1. you claim ownership of the contract
+2. you reduce its balance to 0
   Things that might help
 
 - How to send ether when interacting with an ABI
